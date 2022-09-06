@@ -18,3 +18,5 @@ const Modal = ({ children }) => {
 };
 
 export default Modal;
+
+// also changed made in the main branch
